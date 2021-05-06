@@ -1,2 +1,2 @@
 # options-project
-Lockback put option
+Lookback put option
